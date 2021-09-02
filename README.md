@@ -9,9 +9,16 @@ Url to the deployed version: https://budgeted-trackerrr.herokuapp.com/
 With Budget Tracker, any user could track their daily budget on the fly. Built with offline capability as well as the ability to download as an app for chrome
 
 ## Table of Contents
+* [Technologies](#technologies)
 * [Installation](#installation)
 * [Usage](#usage)
 * [Questions](#questions)
+
+## Technogogies
+* MongoDB
+* Javascript - Express
+* PWA - Progressive Web Application
+
 
 ## Installation
 To install this file, either clone or install the zip version of this repository.
