@@ -3,7 +3,7 @@ Url to this repository: https://github.com/LifeInvaderr/Budget-Tracker
 
 Url to the deployed version: https://budgeted-trackerrr.herokuapp.com/
 
-![Budget Tracker Webpage](images/webpage.png)
+![Page Preview](images/webpage.PNG)
 
 ## Description
 With Budget Tracker, any user could track their daily budget on the fly. Built with offline capability as well as the ability to download as an app for chrome
